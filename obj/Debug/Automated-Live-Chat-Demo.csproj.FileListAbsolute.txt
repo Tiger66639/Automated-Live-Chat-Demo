@@ -18,3 +18,13 @@ E:\Documents\Laz\Documents\GitHub\Automated-Live-Chat-Demo\obj\Debug\Automated-L
 E:\Documents\Laz\Documents\GitHub\Automated-Live-Chat-Demo\obj\Debug\Automated-Live-Chat-Demo.pdb
 E:\Documents\Laz\Documents\GitHub\Automated-Live-Chat-Demo\bin\Syn.Automation.Chat.dll
 E:\Documents\Laz\Documents\GitHub\Automated-Live-Chat-Demo\bin\Syn.Bot.dll
+E:\eclipse\Repos\Automated-Live-Chat-Demo\bin\Automated-Live-Chat-Demo.dll.config
+E:\eclipse\Repos\Automated-Live-Chat-Demo\bin\Automated-Live-Chat-Demo.dll
+E:\eclipse\Repos\Automated-Live-Chat-Demo\bin\Automated-Live-Chat-Demo.pdb
+E:\eclipse\Repos\Automated-Live-Chat-Demo\bin\Syn.Automation.Chat.dll
+E:\eclipse\Repos\Automated-Live-Chat-Demo\bin\Syn.Bot.dll
+E:\eclipse\Repos\Automated-Live-Chat-Demo\bin\Syn.Automation.Chat.xml
+E:\eclipse\Repos\Automated-Live-Chat-Demo\bin\Syn.Bot.xml
+E:\eclipse\Repos\Automated-Live-Chat-Demo\obj\Debug\Automated-Live-Chat-Demo.csprojResolveAssemblyReference.cache
+E:\eclipse\Repos\Automated-Live-Chat-Demo\obj\Debug\Automated-Live-Chat-Demo.dll
+E:\eclipse\Repos\Automated-Live-Chat-Demo\obj\Debug\Automated-Live-Chat-Demo.pdb
